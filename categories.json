@@ -2,13 +2,13 @@
     "id": "1",
     "title": "Alphabets",
     "type": "alphabets",
-    "image": "alphabets",
+    "image": "https://raw.githubusercontent.com/viswanathm/kids-wiki/master/assets/categories/alphabets.png",
     "language": "hi"
 },
 {
     "id": "2",
     "title": "Numbers",
     "type": "numbers",
-    "image": "numbers",
+    "image": "https://raw.githubusercontent.com/viswanathm/kids-wiki/master/assets/categories/numbers.png",
     "language": "en"
 }]
