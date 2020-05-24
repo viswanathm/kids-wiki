@@ -1,38 +1,36 @@
-[
-    {
-      "id": "A",
-      "text": "A for Apple",
-      "speech": "A for Apple",
-      "imageSource": "https://raw.githubusercontent.com/viswanathm/kids-wiki/master/assets/alphabets/apple.png"
-    },
-    {
-      "id": "B",
-      "text": "B for Boy",
-      "speech": "B for Boy",
-      "imageSource": "https://raw.githubusercontent.com/viswanathm/kids-wiki/master/assets/alphabets/boy.png"
-    },
-    {
-      "id": "C",
-      "text": "C for Cat",
-      "speech": "C for Cat",
-      "imageSource": "https://raw.githubusercontent.com/viswanathm/kids-wiki/master/assets/alphabets/cat.png"
-    },
-    {
-      "id": "D",
-      "text": "D for Dog",
-      "speech": "D for Dog",
-      "imageSource": "https://raw.githubusercontent.com/viswanathm/kids-wiki/master/assets/alphabets/dog.png"
-    },
-    {
-      "id": "E",
-      "text": "E for Elephant",
-      "speech": "E for Elephant",
-      "imageSource": "https://raw.githubusercontent.com/viswanathm/kids-wiki/master/assets/alphabets/elephant.png"
-    },
-    {
-      "id": "F",
-      "text": "F for Fan",
-      "speech": "F for Fan",
-      "imageSource": "https://raw.githubusercontent.com/viswanathm/kids-wiki/master/assets/alphabets/fan.png"
-    }
-  ]
+[{
+    "id": "A",
+    "text": "A for Apple",
+    "speech": "A for Apple",
+    "imageSource": "https://raw.githubusercontent.com/viswanathm/kids-wiki/master/assets/alphabets/apple.png"
+},
+{
+    "id": "B",
+    "text": "B for Boy",
+    "speech": "B for Boy",
+    "imageSource": "https://raw.githubusercontent.com/viswanathm/kids-wiki/master/assets/alphabets/boy.png"
+},
+{
+    "id": "C",
+    "text": "C for Cat",
+    "speech": "C for Cat",
+    "imageSource": "https://raw.githubusercontent.com/viswanathm/kids-wiki/master/assets/alphabets/cat.png"
+},
+{
+    "id": "D",
+    "text": "D for Dog",
+    "speech": "D for Dog",
+    "imageSource": "https://raw.githubusercontent.com/viswanathm/kids-wiki/master/assets/alphabets/dog.png"
+},
+{
+    "id": "E",
+    "text": "E for Elephant",
+    "speech": "E for Elephant",
+    "imageSource": "https://raw.githubusercontent.com/viswanathm/kids-wiki/master/assets/alphabets/elephant.png"
+},
+{
+    "id": "F",
+    "text": "F for Fan",
+    "speech": "F for Fan",
+    "imageSource": "https://raw.githubusercontent.com/viswanathm/kids-wiki/master/assets/alphabets/fan.png"
+}]

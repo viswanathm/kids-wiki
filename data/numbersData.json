@@ -1,0 +1,18 @@
+[{
+    "id": "1",
+    "text": "ONE",
+    "speech": "o, n, e, one",
+    "imageSource": "1"
+},
+{
+    "id": "2",
+    "text": "TWO",
+    "speech": "t, w, o, two",
+    "imageSource": "2"
+},
+{
+    "id": "3",
+    "text": "THREE",
+    "speech": "t, h, r, e, e, three",
+    "imageSource": "3"
+}]
