@@ -1,0 +1,14 @@
+[{
+    "id": "1",
+    "title": "Alphabets",
+    "type": "alphabets",
+    "image": "alphabets",
+    "language": "hi"
+},
+{
+    "id": "2",
+    "title": "Numbers",
+    "type": "numbers",
+    "image": "numbers",
+    "language": "en"
+}]
